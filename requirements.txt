@@ -1,0 +1,4 @@
+tez
+psutil
+tqdm
+transformers
